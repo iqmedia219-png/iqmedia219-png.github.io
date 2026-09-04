@@ -40,8 +40,7 @@
       "image":"file:///android_asset/bus3.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":""
-    }
-  ,
+   },
     {
       "title":"Truck UD Quester Bak Muat Kayu",
       "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
@@ -49,10 +48,136 @@
       "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
     } ,
     {
-      "title":"Jaguar XE SV Project 8",
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Jaguar XE SV Project 9",
       "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":""
+    },
+    {
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Jaguar XE SV Project 11",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+      },
+    {
+      "title":"Jaguar XE SV Project 12",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+      },
+    {
+      "title":"Jaguar XE SV Project 13",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+      },
+    {
+      "title":"Jaguar XE SV Project 14",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"PakTelolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Bu Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Bus Telo",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"BU Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Bus Telot",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Akram Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Paijo Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Hafid Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Asaw Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Ciko Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Coki Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+     },
+    {
+      "title":"Harapan",
+      "image":"file:///android_asset/bus.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     }
   ]
 }
